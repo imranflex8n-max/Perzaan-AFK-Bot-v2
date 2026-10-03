@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Majdur",
+    "username": "King bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "IMRAN_27.aternos.me:45856",
+    "ip": "IMRAN_27.aternos.me",
     "port": 45856,
     "version": "1.21.1"
   },
